@@ -1,0 +1,26 @@
+.mc-contributors {
+  margin-top: 20px;
+}
+
+.mc-contributors h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.mc-contributors ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.mc-contributors li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.mc-contributors li img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
